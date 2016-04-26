@@ -1,0 +1,12 @@
+ *{
+ 	font-family: Tahoma;
+ }
+ .container-fluid{ 
+	background: url("../image/large.jpg"); 
+	background-repeat: no-repeat; 
+	max-width: 100%;
+} 
+.formulario{
+	padding: 30%;
+	margin: 0 auto;
+}

@@ -1,0 +1,20 @@
+a:link{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	font-weight: 600;
+	display: inline-block;
+	margin-left: 5%;
+}
+a:hover{
+	color: #0dc0c0;
+}
+li{
+	display: inline;
+	margin-top: 5%;
+}
+.menu{
+	position: absolute;
+	top: 1%;
+	right: 5%;
+}
