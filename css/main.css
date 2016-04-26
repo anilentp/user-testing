@@ -1,0 +1,37 @@
+.img-logo-2 {
+	width: 300px;
+	height: 110px;
+}
+
+p {
+	font-size: 15px;
+
+}
+
+
+.icon-social {
+	font-size: 50px;
+	color: #5D9BBF;
+	text-align: right;
+}
+
+.banner {
+	width: 600px;
+	height: 480px;
+}
+
+
+
+
+
+
+
+
+/* FOOTER */
+.caja-blue {
+	color: #5D9BBF;
+}
+
+.caja-black {
+	color: #484444;
+}
