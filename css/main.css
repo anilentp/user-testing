@@ -10,11 +10,14 @@
 	max-width: 50%;
 	margin-left: 0% !important;
 }
+.how-i-do{
+	padding-bottom: 5%;
+}
 .background-destkop{
 	background-image: url(../image/sec-2.jpg);
 	background-size: cover;
-	height: 600px;
 	width: 100%;
+	height: 500px;
 	position: relative;
 }
 .background-destkop::before{
@@ -42,21 +45,19 @@
 	color: white;
 	font-weight: bold;
 }
-.medium{
-	position: absolute;
-}
 #margin-1{
-	margin-top: 30%;
+	margin-top: 20%;
 }
 #margin-2{
-	margin-top: 50%;
+	margin-top: 40%;
 }
 #margin-3{
-	margin-top: 70%;
+	margin-top: 60%;
 }
 #margin-4{
-	margin-top: 90%;
-	left: 93%;
+	margin-top: 80%;
+	left: 92%;
+	position: absolute;
 }
 iframe{
 	width: 100% !important;
