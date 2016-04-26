@@ -6,9 +6,9 @@
 .features img{
 	margin-left: 46%;
 }
-.logo{
+.logo-img{
 	max-width: 50%;
-	padding-left: 10%;
+	margin-left: 0% !important;
 }
 .background-destkop{
 	background-image: url(../image/sec-2.jpg);
@@ -59,7 +59,7 @@
 	left: 93%;
 }
 iframe{
-	max-width: 100% !important;
+	width: 100% !important;
 }
 .how-i-do  h2{
 	margin-bottom: 7%;
