@@ -1,10 +1,13 @@
 /* estilos features section*/
+.features{
+}
 .features h1{
 	color: #5D9BBF;
-	font-weight: lighter;
+	font-weight: lighter; 
 }
 .features img{
 	margin-left: 46%;
+	margin-bottom: 5%;
 }
 .logo-img{
 	max-width: 50%;
