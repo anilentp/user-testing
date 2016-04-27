@@ -163,4 +163,57 @@ iframe{
 /* Fin section and features Aury*/
 
 /* Inicio footer Pamela*/
+/*LOGO */
+.img-logo-2 {
+	max-width: 50%;
+}
+
+p {
+	font-size: 12px;
+}
+
+
+/*IMAGEN*/
+.banner{
+	max-width: 100%;
+}
+
+/*PARTE DEL BOTON*/
+.container h1 {
+	font-size: 20px;
+}
+
+.prueba-gratuita {
+	background-color: #5D9BBF;
+	max-width: 100%;
+}
+
+.buton {
+	width: 130px;
+	height: 40px;
+	color: white;
+	display: inline-block;
+	margin-left: 70%;
+	margin-bottom: 30px;
+	background-color: #5D9BBF;
+	font-size: 15px;
+}
+
+
+/* FOOTER */
+.footer p {
+	color: white;
+}
+
+.footer {
+	background-color: #2D2A2A;
+	max-width: 100%;
+	padding: 1%;
+}
+
+.icon-social {
+	font-size: 30px;
+	color: #5D9BBF;
+	text-align: right;
+}
 /* Fin footer Pamela*/
