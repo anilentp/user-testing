@@ -1,0 +1,32 @@
+[33mcommit 1d0c3cbfb3203b3984ab4732bb79eb7c210aa236[m
+Merge: 046e603 e0a243e
+Author: Anilen.TP <anilen.tp@gmail.com>
+Date:   Tue Apr 26 22:42:23 2016 -0300
+
+    Merge pull request #2 from anilentp/header-branch
+    
+    Header branch
+
+[33mcommit e0a243ec2e97d90313c75904cc7ee37ad59ddbbb[m
+Author: AniiLen <anile.tp@gmail.com>
+Date:   Tue Apr 26 18:33:01 2016 -0300
+
+    header, section, y pagina de contacto terminado, faltan 2 detalles, en la pagina de contacto, y en header
+
+[33mcommit e29786a23d28948e4caa2ae368a1568b552c0561[m
+Author: AniiLen <anile.tp@gmail.com>
+Date:   Tue Apr 26 14:09:46 2016 -0300
+
+    diagramacion header y section, faltan detalles
+
+[33mcommit 2897659b7635d9bcbaebd6813e4dca4742b2e28d[m
+Author: AniiLen <anile.tp@gmail.com>
+Date:   Tue Apr 26 00:04:50 2016 -0300
+
+    diagramacion menu header, mas enlace a contact, funciona, pagina contact, fondo e inputs listo, editar tamaños y posision
+
+[33mcommit 046e603f61d8b745dcde38c1276626506bb2fcbc[m
+Author: AniiLen <anile.tp@gmail.com>
+Date:   Mon Apr 25 13:02:59 2016 -0300
+
+    archivos base para crear user-testing

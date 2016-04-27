@@ -1,3 +1,4 @@
+/* inicio header and section Belen*/
 a:link{
 	text-decoration: none;
 	text-align: center;
@@ -74,3 +75,92 @@ li{
 .offer{
 	text-align: center;
 }
+/* Fin header and section Belen*/
+/* inicio estilos features section aury*/
+
+.features{
+}
+.features h1{
+	color: #5D9BBF;
+	font-weight: lighter; 
+}
+.features img{
+	margin-left: 46%;
+	margin-bottom: 5%;
+}
+.logo-img{
+	max-width: 50%;
+	margin-left: 0% !important;
+}
+.how-i-do{
+	padding-bottom: 5%;
+}
+.background-destkop{
+	background-image: url(../image/sec-2.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+	position: relative;
+}
+.background-destkop::before{
+  background-color: rgba(0, 0, 0, 0.70);
+  content: '';
+  display: block;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+.caja-iconos{
+	width: 50px;
+	height: 50px;
+	background: #5D9BBF;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	position: absolute;
+	left: 95%;
+	text-align: center;
+	padding-top: 10px;
+}
+.caja-iconos i{
+	font-size: 25px;
+	color: white;
+	font-weight: bold;
+}
+#margin-1{
+	margin-top: 20%;
+}
+#margin-2{
+	margin-top: 40%;
+}
+#margin-3{
+	margin-top: 60%;
+}
+#margin-4{
+	margin-top: 80%;
+	left: 92%;
+	position: absolute;
+}
+iframe{
+	width: 100% !important;
+}
+.how-i-do  h2{
+	margin-bottom: 7%;
+}
+.how-i-do h4{
+	color: #5D9BBF;
+}
+.how-i-do p{
+	margin-bottom: 7%;
+	font-size: 15px;
+}
+.no-margin{
+	margin-bottom: 0% !important;
+}
+.how-i-do ul{
+	font-size: 15px;
+}
+/* Fin section and features Aury*/
+
+/* Inicio footer Pamela*/
+/* Fin footer Pamela*/
